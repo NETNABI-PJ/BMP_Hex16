@@ -1,5 +1,5 @@
 # BMP_Hex 
-Source file BMP Only 24bit   
+c# winform  
 ![Image](https://github.com/user-attachments/assets/911c9912-e28f-49e5-b7c9-fc3a7bb98e2c)  
 https://youtube.com/shorts/DE7Pg4HJHpo  
 
